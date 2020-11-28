@@ -1,4 +1,6 @@
-### Hi there 👋 <img src="https://pixel-counter.vercel.app/api/unicorn.png" width="20" title="unicorn">
+### Hi there 👋
+
+<img src="https://pixel-counter.vercel.app/api/unicorn.png" width="100" title="unicorn">
 
 <!--
 **notepraiya/notepraiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
