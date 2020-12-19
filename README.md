@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Praiya from Thailand, a fourth year CS student.
+
 <img src="https://pixel-counter.vercel.app/api/unicorn.png" width="100" title="unicorn">
 
 <!--
