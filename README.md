@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notepraiya&layout=compact&theme=radical&count_private=true)](https://github.com/notepraiya)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notepraiya&layout=compact&theme=bear)](https://github.com/notepraiya)
 
+![notepraiya's github stats](https://github-readme-stats.vercel.app/api?username=notepraiya&show_icons=true&theme=bear&count_private=true)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=notepraiya.notepraiya)
 
