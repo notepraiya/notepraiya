@@ -17,5 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notepraiya&layout=compact)](https://github.com/notepraiya)
+
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=notepraiya.notepraiya)
 
