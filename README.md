@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Praiya from Thailand, a fourth year CS student.
+I am Praiya from Thailand, a fourth-year CS student. I like to work/pair with people by doing a project together, because of that way, I can motivate myself to postpone my lazy feature
 
 <img src="https://pixel-counter.vercel.app/api/unicorn.png" width="100" title="unicorn">
 
