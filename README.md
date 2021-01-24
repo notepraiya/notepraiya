@@ -2,6 +2,8 @@
 
 I am Praiya from Thailand, a fourth-year CS student. I like to work/pair 👯 with people by doing a project together, because of that, I can deactivate my lazy feature 😄.
 
+Discord: notepraiya#6882
+
 <img src="https://pixel-counter.vercel.app/api/unicorn.png" width="100" title="unicorn">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notepraiya&layout=compact&theme=bear&count_private=true)](https://github.com/notepraiya)
